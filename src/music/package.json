@@ -1,7 +1,8 @@
 {
     "name": "music",
     "version": "0.1.0",
-    "main": "index.html",
+    //"main": "index.html",
+    "main": "http://music.163.com",
     "window": {
       "toolbar": false,
       "width": 800,
